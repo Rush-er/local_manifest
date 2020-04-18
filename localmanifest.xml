@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="device/xiaomi/whyred" name="Rush-er/device_xiaomi_whyred " revision="lineage-17.1" remote="github"/>
+  <project path="device/xiaomi/whyred" name="Rush-er/device_xiaomi_whyred" revision="lineage-17.1" remote="github"/>
   <project path="vendor/xiaomi/whyred" name="Rush-er/vendor_xiaomi_whyred" revision="lineage-17.1" remote="github"/>
   <project path="vendor/MiuiCamera" name="PixelExperience-Devices/vendor_MiuiCamera" revision="ten-whyred" remote="github"/>
   <project path="kernel/xiaomi/whyred" name="Rush-er/android_kernel_xiaomi_whyred" revision="kernel-hmp" remote="github"/>

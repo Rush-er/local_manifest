@@ -4,5 +4,7 @@
   <project path="vendor/xiaomi/whyred" name="Rush-er/vendor_xiaomi_whyred" revision="lineage-17.1" remote="github"/>
   <project path="vendor/MiuiCamera" name="PixelExperience-Devices/vendor_MiuiCamera" revision="ten-whyred" remote="github"/>
   <project path="kernel/xiaomi/whyred" name="Rush-er/android_kernel_xiaomi_whyred" revision="kernel-hmp" remote="github"/>
+  
+  <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" revision="lineage-17.1" remote="github"/>
 </manifest>
 

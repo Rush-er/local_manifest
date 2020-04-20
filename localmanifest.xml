@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/xiaomi/whyred" name="Rush-er/whyred-tree" revision="validus" remote="github"/>
+  <project path="vendor/xiaomi/whyred" name="X-Project-Whyred-Tree/vendor_xiaomi_whyred" revision="10" remote="github"/>
+  <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" revision="lineage-17.1" remote="github"/>
+</manifest>
+
+

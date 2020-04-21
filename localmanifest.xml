@@ -5,7 +5,8 @@
   <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" revision="lineage-17.1" remote="github"/>
   <project path="kernel/xiaomi/whyred" name="stormbreaker-project/kernel_xiaomi_whyred" revision="hmp-old-cam" remote="github"/>
   <project path="vendor/MiuiCamera" name="SakilMondal/vendor_MiuiCamera" revision="10.x" remote="github"/>
+  <!--
   <project path="vendor/qcom/common" name="SakilMondal/vendor_qcom_common" revision="10.x" remote="github"/>
+  -->
   <project path="vendor/dirac" name="SakilMondal/vendor_dirac" revision="10.x" remote="github"/>
 </manifest>
-

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="device/xiaomi/whyred" name="Rush-er/android_device_xiaomi_whyred" revision="validus-common" remote="github"/>
+  <project path="device/xiaomi/whyred" name="Rush-er/whyred-tree-common" revision="validus-common" remote="github"/>
   <project path="device/xiaomi/sdm660-common" name="xiaomi-sdm660/android_device_xiaomi_sdm660-common" revision="cr-8.0-eas" remote="github"/>
   <project path="vendor/xiaomi/whyred" name="xiaomi-sdm660/android_vendor_xiaomi_whyred" revision="ten" remote="github"/>
   <project path="vendor/xiaomi/sdm660-common" name="xiaomi-sdm660/android_vendor_xiaomi_sdm660-common" revision="cr-8.0-eas" remote="github"/>

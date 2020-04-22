@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="device/xiaomi/whyred" name="Rush-er/whyred-tree" revision="validus" remote="github"/>
-  <project path="vendor/xiaomi/whyred" name="X-Project-Whyred-Tree/vendor_xiaomi_whyred" revision="10" remote="github"/>
+  <project path="device/xiaomi/whyred" name="Rush-er/android_device_xiaomi_whyred" revision="validus-common" remote="github"/>
+  <project path="vendor/xiaomi/whyred" name="xiaomi-sdm660/android_vendor_xiaomi_whyred" revision="ten" remote="github"/>
+  <project path="vendor/xiaomi/sdm660-common" name="xiaomi-sdm660/android_vendor_xiaomi_sdm660-common" revision="cr-8.0-eas" remote="github"/>
   <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" revision="lineage-17.1" remote="github"/>
-  <project path="kernel/xiaomi/whyred" name="stormbreaker-project/kernel_xiaomi_whyred" revision="hmp-old-cam" remote="github"/>
-  <project path="vendor/MiuiCamera" name="SakilMondal/vendor_MiuiCamera" revision="10.x" remote="github"/>
-  <!--
-  <project path="vendor/qcom/common" name="SakilMondal/vendor_qcom_common" revision="10.x" remote="github"/>
-  -->
-  <project path="vendor/dirac" name="SakilMondal/vendor_dirac" revision="10.x" remote="github"/>
+  <project path="kernel/xiaomi/whyred" name="PixelExperience-Devices/kernel_xiaomi_whyred" revision="ten" remote="github"/>
+  <project path="vendor/MiuiCamera" name="xiaomi-sdm660/android_vendor_xiaomi_MiuiCamera" revision="lineage-17.0" remote="github"/>
 </manifest>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="device/xiaomi/whyred" name="Rush-er/device_xiaomi_whyred" revision="validus" remote="github"/>
+  <project path="device/xiaomi/whyred" name="Rush-er/device_xiaomi_whyred" revision="reloaded" remote="github"/>
   <project path="vendor/xiaomi/whyred" name="fakeyatogod/vendor_xiaomi_whyred" revision="cr-8.0" remote="github"/>
   <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" revision="lineage-17.1" remote="github"/>
   <project path="kernel/xiaomi/whyred" name="CarbonROM/android_kernel_xiaomi_whyred" revision="cr-8.0" remote="github"/>

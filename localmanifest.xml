@@ -6,7 +6,7 @@
   <project path="vendor/xiaomi/sdm660-common" name="xiaomi-sdm660/android_vendor_xiaomi_sdm660-common" revision="cr-8.0-hmp" remote="github"/>
   <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" revision="lineage-17.1" remote="github"/>
   <project path="kernel/xiaomi/sdm660" name="Rush-er/android_kernel_xiaomi_sdm660" revision="hmp" remote="github"/>
- <project path="vendor/xiaomi/MiuiCamera" name="xiaomi-sdm660/android_vendor_xiaomi_MiuiCamera" revision="master" remote="github"/> 
+ <project path="vendor/MiuiCamera" name="xiaomi-sdm660/android_vendor_xiaomi_MiuiCamera" revision="master" remote="github"/> 
 </manifest>
 
    

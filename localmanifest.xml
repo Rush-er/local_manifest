@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="device/xiaomi/whyred" name="Rush-er/whyred-tree-common" revision="validus-common" remote="github"/>
-  <project path="device/xiaomi/sdm660-common" name="xiaomi-sdm660/android_device_xiaomi_sdm660-common" revision="cr-8.0-eas" remote="github"/>
-  <project path="vendor/xiaomi/whyred" name="xiaomi-sdm660/android_vendor_xiaomi_whyred" revision="ten" remote="github"/>
-  <project path="vendor/xiaomi/sdm660-common" name="xiaomi-sdm660/android_vendor_xiaomi_sdm660-common" revision="cr-8.0-eas" remote="github"/>
+  <project path="device/xiaomi/whyred" name="Rush-er/device_xiaomi_whyred" revision="validus-common" remote="github"/>
+  <project path="device/xiaomi/sdm660-common" name="Rush-er/device_xiaomi_whyred" revision="sdm660-common" remote="github"/>
+  <project path="vendor/xiaomi/whyred" name="xiaomeme-whyred/proprietary_vendor_xiaomi_whyred" revision="10.x" remote="github"/>
   <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" revision="lineage-17.1" remote="github"/>
-  <project path="kernel/xiaomi/whyred" name="xiaomi-sdm660/android_kernel_xiaomi_sdm660" revision="kernel.lnx.4.4.r38-rel-eas" remote="github"/>
-  <project path="vendor/MiuiCamera" name="xiaomi-sdm660/android_vendor_xiaomi_MiuiCamera" revision="lineage-17.0" remote="github"/>
+  <project path="kernel/xiaomi/whyred" name="xiaomeme-whyred/android_kernel_xiaomi_sdm660" revision="lineage-17.1" remote="github"/>
 </manifest>
-

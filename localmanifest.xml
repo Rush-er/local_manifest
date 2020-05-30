@@ -3,7 +3,8 @@
   <project path="device/xiaomi/whyred" name="Rush-er/device_xiaomi_whyred" revision="validus" remote="github"/>
   <project path="vendor/xiaomi/whyred" name="fakeyatogod/vendor_xiaomi_whyred" revision="cr-8.0" remote="github"/>
   <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" revision="lineage-17.1" remote="github"/>
-  <project path="kernel/xiaomi/whyred" name="theradcolor/android_kernel_xiaomi_whyred" revision="kernel-fakerad" remote="github"/>
+  <project path="kernel/xiaomi/whyred" name="meg4z0rd/de-whyred" revision="test" remote="github"/>
+  <project path="vendor/extra" name="Rush-er/android_vendor_extra" revision="master" remote="github"/>
 </manifest>
 
 

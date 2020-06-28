@@ -7,9 +7,11 @@
   <project path="kernel/xiaomi/whyred" name="theradcolor/android_kernel_xiaomi_whyred" revision="kernel-fakerad" remote="github"/>
 
   <!--Validus mod-->
-  <remove-project name="frameworks/base" />
+  <!-- 
+  <remove-project name="frameworks/base" /> 
   <project path="frameworks/base" name="Rush-er/frameworks_base" revision="10.0-validus" remote="github" />
-  <project path="vendor/extra" name="Rush-er/android_vendor_extra" revision="master" remote="github" />
+  <project path="vendor/extra" name="Rush-er/android_vendor_extra" revision="master" remote="github" /> 
+  --> 
 
 <!--Misc-->
   <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" revision="lineage-17.1" remote="github"/>

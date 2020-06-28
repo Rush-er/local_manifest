@@ -15,6 +15,7 @@
 
 <!--Misc-->
   <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" revision="lineage-17.1" remote="github"/>
+  <project path="vendor/dirac" name="fakeyatogod/vendor_dirac" revision="ten" remote="github"/>
   
 </manifest>
 

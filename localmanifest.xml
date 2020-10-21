@@ -2,21 +2,11 @@
 <manifest>
 
 <!--Whyred parts-->
-  <project path="device/xiaomi/whyred" name="Rush-er/device_xiaomi_whyred" revision="validus" remote="github"/>
-  <project path="vendor/xiaomi/whyred" name="fakeyatogod/vendor_xiaomi_whyred" revision="cr-8.0" remote="github"/>
-  <project path="kernel/xiaomi/whyred" name="theradcolor/android_kernel_xiaomi_whyred" revision="kernel-fakerad" remote="github"/>
+  <project path="device/xiaomi/whyred" name="Rush-er/android_device_xiaomi_whyred" revision="lineage-18.0" remote="github"/>
+  <project path="device/xiaomi/sdm660-common" name="SakilMondal/android_device_xiaomi_sdm660-common" revision="lineage-18.0" remote="github"/>
+  <project path="vendor/xiaomi/whyred" name="SakilMondal/vendor_xiaomi_whyred" revision="lineage-18.0" remote="github"/>
+  <project path="kernel/xiaomi/whyred" name="attack11/Whyred" revision="extended-eas" remote="github"/>
 
-  <!--Validus mod-->
-  <!-- 
-  <remove-project name="frameworks/base" /> 
-  <project path="frameworks/base" name="Rush-er/frameworks_base" revision="10.0-validus" remote="github" />
-  <project path="vendor/extra" name="Rush-er/android_vendor_extra" revision="master" remote="github" /> 
-  --> 
-
-<!--Misc-->
-  <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" revision="lineage-17.1" remote="github"/>
-  <project path="vendor/dirac" name="fakeyatogod/vendor_dirac" revision="ten" remote="github"/>
-  
 </manifest>
 
 
